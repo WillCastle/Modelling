@@ -1,0 +1,49 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.5
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.8.3
+batch:
+  desc: null
+  value: 273
+conv_layers:
+  desc: null
+  value: 4
+cos_restarts:
+  desc: null
+  value: 6
+cos_t_mult:
+  desc: null
+  value: 1
+dev:
+  desc: null
+  value: cuda
+dropout_prob:
+  desc: null
+  value: 0.1
+epochs:
+  desc: null
+  value: 100
+num_filters:
+  desc: null
+  value: 128
+opt:
+  desc: null
+  value: Ranger
+reg_l1:
+  desc: null
+  value: 0.001
+start_lr:
+  desc: null
+  value: 0.1
+swa_lr:
+  desc: null
+  value: 0.05
+swa_start_frac:
+  desc: null
+  value: 0.75

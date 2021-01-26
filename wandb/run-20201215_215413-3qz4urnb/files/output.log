@@ -1,0 +1,136 @@
+Started: 2020-12-15 21:54:16.226552
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+{"shape": "", "count": 12}
+Started: 2020-12-15 21:55:08.900535
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+Started: 2020-12-15 21:56:38.934062
+  epoch    accuracy      lr    train_loss    valid_acc    valid_loss     dur
+-------  ----------  ------  ------------  -----------  ------------  ------
+      1      [36m0.4872[0m  0.1000        [35m0.8070[0m       [31m0.4348[0m     [94m4230.4878[0m  0.9583
+      2      [36m0.5568[0m  0.0991        [35m0.7314[0m       0.4348      [94m509.6132[0m  0.3481
+      3      [36m0.5751[0m  0.0966        [35m0.7107[0m       0.4348      [94m148.3356[0m  0.3491
+      4      [36m0.5897[0m  0.0925        [35m0.7009[0m       0.4348       [94m64.1563[0m  0.3396
+      5      0.5861  0.0870        [35m0.6940[0m       0.4348       [94m33.2402[0m  0.3391
+      6      0.5861  0.0802        [35m0.6880[0m       0.4348       [94m18.9555[0m  0.3453
+      7      0.5714  0.0723        [35m0.6848[0m       0.4348       [94m11.5124[0m  0.3426
+      8      0.5714  0.0637        [35m0.6828[0m       0.4348        [94m7.3288[0m  0.3415
+      9      0.5678  0.0547        [35m0.6812[0m       0.4348        [94m4.8921[0m  0.3461
+     10      0.5678  0.0454        [35m0.6811[0m       0.4348        [94m3.4010[0m  0.3417
+     11      [36m0.5934[0m  0.0364        [35m0.6802[0m       0.4348        [94m2.3958[0m  0.3387
+     12      0.5788  0.0278        0.6807       0.4348        [94m1.7459[0m  0.3370
+     13      0.5788  0.0199        0.6808       0.4348        [94m1.3167[0m  0.3371
+     14      0.5788  0.0131        0.6806       0.4348        [94m1.0604[0m  0.3421
+     15      0.5751  0.0076        0.6808       0.4348        [94m0.9112[0m  0.3371
+     16      0.5714  0.0035        0.6807       [31m0.4493[0m        [94m0.8287[0m  0.3426
+     17      0.5714  0.0010        0.6808       [31m0.4783[0m        [94m0.7811[0m  0.3423
+     18      0.5788  0.0001        0.6807       [31m0.4928[0m        [94m0.7524[0m  0.3398
+     19      0.5714  0.1000        0.6809       [31m0.5072[0m        [94m0.7370[0m  0.3486
+     20      0.5604  0.0991        0.6811       [31m0.5217[0m        [94m0.7357[0m  0.3481
+     21      0.5714  0.0966        0.6803       0.5217        [94m0.7349[0m  0.3412
+     22      0.5714  0.0925        [35m0.6794[0m       0.5072        [94m0.7335[0m  0.3474
+     23      0.5714  0.0870        [35m0.6792[0m       0.4928        [94m0.7314[0m  0.3617
+     24      0.5678  0.0802        [35m0.6783[0m       0.4783        [94m0.7283[0m  0.3455
+     25      0.5714  0.0723        [35m0.6776[0m       0.4783        [94m0.7241[0m  0.3537
+     26      0.5678  0.0637        [35m0.6775[0m       0.4783        [94m0.7195[0m  0.3468
+     27      0.5604  0.0547        [35m0.6764[0m       0.5072        [94m0.7146[0m  0.3536
+     28      0.5604  0.0454        0.6767       0.5072        [94m0.7100[0m  0.3467
+     29      0.5788  0.0364        [35m0.6762[0m       0.5217        [94m0.7058[0m  0.3447
+     30      0.5714  0.0278        [35m0.6759[0m       0.4928        [94m0.7020[0m  0.3491
+     31      0.5788  0.0199        0.6760       0.5072        [94m0.6988[0m  0.3445
+     32      0.5678  0.0131        0.6760       0.5217        [94m0.6962[0m  0.3517
+     33      0.5824  0.0076        [35m0.6754[0m       [31m0.5362[0m        [94m0.6940[0m  0.3508
+     34      0.5641  0.0035        0.6757       [31m0.5507[0m        [94m0.6922[0m  0.3481
+     35      0.5751  0.0010        [35m0.6753[0m       [31m0.5797[0m        [94m0.6908[0m  0.3441
+     36      0.5751  0.0001        0.6756       0.5797        [94m0.6897[0m  0.3476
+     37      0.5641  0.1000        0.6755       [31m0.6087[0m        [94m0.6887[0m  0.3457
+     38      0.5714  0.0991        [35m0.6750[0m       [31m0.6232[0m        [94m0.6866[0m  0.3417
+     39      0.5751  0.0966        [35m0.6745[0m       0.6232        [94m0.6848[0m  0.3415
+     40      0.5751  0.0925        0.6747       0.6087        [94m0.6832[0m  0.3422
+     41      0.5824  0.0870        [35m0.6741[0m       0.5797        [94m0.6815[0m  0.3475
+     42      0.5824  0.0802        [35m0.6728[0m       0.5797        [94m0.6800[0m  0.3441
+     43      0.5861  0.0723        [35m0.6722[0m       0.5797        [94m0.6787[0m  0.3417
+     44      0.5788  0.0637        [35m0.6714[0m       0.5797        [94m0.6775[0m  0.3439
+     45      0.5751  0.0547        0.6714       0.5797        [94m0.6766[0m  0.3430
+     46      0.5714  0.0454        [35m0.6698[0m       0.5652        [94m0.6760[0m  0.3422
+     47      0.5678  0.0364        0.6705       0.5797        [94m0.6751[0m  0.3413
+     48      0.5714  0.0278        [35m0.6690[0m       0.5797        [94m0.6744[0m  0.3446
+     49      0.5788  0.0199        [35m0.6688[0m       0.5942        [94m0.6739[0m  0.3437
+     50      0.5824  0.0131        0.6691       0.5942        [94m0.6737[0m  0.3457
+     51      0.5604  0.0076        [35m0.6683[0m       0.5942        [94m0.6734[0m  0.3446
+     52      0.5641  0.0035        0.6686       0.5942        [94m0.6730[0m  0.3422
+     53      0.5751  0.0010        [35m0.6666[0m       0.5942        [94m0.6727[0m  0.3447
+     54      0.5934  0.0001        0.6676       0.5942        [94m0.6724[0m  0.3424
+     55      0.5751  0.1000        0.6673       0.5942        [94m0.6721[0m  0.3447
+     56      0.5788  0.0991        0.6672       0.5797        0.6737  0.3456
+     57      0.5897  0.0966        [35m0.6641[0m       0.5507        0.6761  0.3441
+     58      0.5824  0.0925        [35m0.6606[0m       0.5652        0.6808  0.3481
+     59      [36m0.6081[0m  0.0870        [35m0.6565[0m       0.5652        0.6879  0.3482
+     60      0.5934  0.0802        [35m0.6505[0m       0.5652        0.6957  0.3466
+     61      [36m0.6374[0m  0.0723        [35m0.6400[0m       0.5652        0.6985  0.3483
+     62      [36m0.6447[0m  0.0637        [35m0.6311[0m       0.5652        0.7033  0.3481
+     63      [36m0.6593[0m  0.0547        [35m0.6169[0m       0.5652        0.7022  0.3460
+     64      [36m0.6850[0m  0.0454        [35m0.6101[0m       0.5652        0.6995  0.3476
+     65      [36m0.6996[0m  0.0364        [35m0.6018[0m       0.5652        0.6989  0.3471
+     66      0.6960  0.0278        [35m0.5896[0m       0.5652        0.6943  0.3500
+     67      [36m0.7179[0m  0.0199        [35m0.5800[0m       0.5652        0.6826  0.3476
+     68      0.7033  0.0131        0.5879       0.5797        0.6809  0.3471
+     69      [36m0.7399[0m  0.0076        [35m0.5744[0m       0.5652        0.6880  0.3466
+     70      0.7033  0.0035        [35m0.5639[0m       0.5652        0.6937  0.3487
+     71      [36m0.7436[0m  0.0010        [35m0.5639[0m       0.5652        0.6958  0.3465
+     72      [36m0.7582[0m  0.0001        [35m0.5564[0m       0.5797        0.6964  0.3471
+     73      0.7399  0.1000        0.5661       0.5942        0.6964  0.3469
+     74      0.7253  0.0991        0.5682       0.4783        0.6902  0.3459
+     75      0.6410  0.0966        0.6335       0.4638        1.0754  0.3482
+Using SWA to update parameters
+     76      0.6484  0.0500        0.6276       0.4493        0.9391  0.3481
+     77      0.6557  0.0500        0.6106       0.4493        0.7779  0.3451
+     78      0.6447  0.0500        0.6046       0.4058        0.7253  0.3451
+     79      0.6850  0.0500        0.5813       0.4348        0.7913  0.3481
+     80      0.7033  0.0500        [35m0.5525[0m       0.4203        0.7927  0.3468
+     81      0.7473  0.0500        [35m0.5402[0m       0.4058        0.7896  0.3474
+     82      0.7289  0.0500        [35m0.5323[0m       0.5072        0.7397  0.3534
+     83      0.7326  0.0500        [35m0.5174[0m       0.4058        0.7503  0.3535
+     84      0.7509  0.0500        0.5250       0.4638        0.7826  0.3557
+     85      0.7546  0.0500        [35m0.5070[0m       0.4348        1.0404  0.3529
+     86      0.7436  0.0500        0.5130       0.4783        1.0888  0.3465
+     87      [36m0.7839[0m  0.0500        [35m0.4758[0m       0.4783        1.0920  0.3466
+     88      [36m0.7912[0m  0.0500        0.4890       0.4348        1.4298  0.3468
+     89      [36m0.8095[0m  0.0500        [35m0.4531[0m       0.4348        1.5740  0.3492
+     90      0.7729  0.0500        0.4561       0.4348        1.4159  0.3465
+     91      [36m0.8168[0m  0.0500        [35m0.4299[0m       0.4348        1.4782  0.3451
+     92      0.8095  0.0500        [35m0.4260[0m       0.4348        1.5111  0.3501
+     93      0.7839  0.0500        [35m0.4205[0m       0.4348        1.5918  0.3481
+     94      0.7985  0.0500        0.4245       0.4348        1.2797  0.3487
+     95      [36m0.8315[0m  0.0500        [35m0.4124[0m       0.4928        1.2191  0.3511
+     96      [36m0.8462[0m  0.0500        [35m0.3913[0m       0.5072        1.1673  0.3481
+     97      0.8132  0.0500        0.4125       0.4928        1.1492  0.3551
+     98      [36m0.8535[0m  0.0500        [35m0.3727[0m       0.4203        1.2287  0.3579
+     99      0.8278  0.0500        [35m0.3672[0m       0.4348        1.0195  0.3560
+    100      0.8352  0.0500        0.3803       0.4638        0.9466  0.4563
+Using training data to update batch norm statistics of the SWA model
+Percentage accuracy on test dataset: 46.4%
+Finished: 2020-12-15 21:57:16.501546
+Time taken: 0h 00m 37s 567ms
+
+
+Generating and evaluating SWA model: 
+Percentage accuracy on test dataset: 58.0%
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+{"shape": "", "count": 4}
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+{"shape": "(273, 556)", "count": 273}
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
+['AveragedModel', 'Callback', 'Checkpoint', 'EpochScoring', 'F', 'LRScheduler', 'LRScheduler_with_log', 'Net', 'NeuralNetBinaryClassifier', 'OrderedDict', 'Ranger', 'SWALR', 'StochasticWeightAveraging', 'Subset', 'TensorDataset', 'WandbLogger', 'WarmRestartLR', 'WarmRestartLR_with_log', 'accuracy_score', 'confusion_matrix', 'constructor', 'data', 'datetime', 'evaluate', 'handle', 'hyperparameters', 'load_model', 'net', 'nn', 'now_str', 'np', 'optim', 'os', 'param_search', 'pd', 'pickle', 'plt', 'predefined_split', 'random', 'save_model', 'shaper', 'smart_batch_norm', 'sns', 'swa_68', 'swa_acc', 'swa_net', 'swa_utils', 'sys', 'test_inputs', 'test_labels', 'torch', 'train_and_eval', 'train_curves', 'train_dataset', 'train_inputs', 'train_labels', 'update_bn', 'valid_dataset', 'wandb', 'wandb_run', 'warnings']
